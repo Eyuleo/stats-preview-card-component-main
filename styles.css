@@ -85,6 +85,10 @@ img{
         border-bottom-right-radius: 0;
         border-top-left-radius: 0.5rem;
     }
+    .img-div{
+        border-bottom-right-radius: 0;
+        border-top-left-radius: 0.5rem;
+    }
     
     .container{
         display: flex;
