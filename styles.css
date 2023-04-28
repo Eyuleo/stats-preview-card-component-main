@@ -19,7 +19,20 @@ body{
     place-items: center;
     border-radius: 0.5rem;
 }
+.img-div{
+    background-color: hsl(277, 64%, 61%);
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;;
+}
 
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+    opacity: 0.8;
+    
+}
 .desktop-img{
     display: block;
     width: 450px;
